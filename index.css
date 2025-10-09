@@ -1,39 +1,39 @@
-h1{
+#titulo_h1{
       color: green;
    text-align: center;
 }
 
-h2{ 
+#titulo_h2{ 
       color: red;
       text-align: left;
 
 }
 
-h3{
+#titulo_h3{
       color: violet;
       text-align: left;
 }
- b{
+#elemento_b{
       color: aqua;
  }
 
-em{
+#elemento_em{
       color: chocolate;
 }
 
-strong{
+#elemento_strong{
       color: darkred;
 }
 
-sub{
+#elemento_sub{
       color: rosybrown;
 }
 
-sup{
+#elemento_sup{
       color: chartreuse;
 }
 
-mark{
+#elemento_mark{
       color: white;
       background-color: blue;
 }
