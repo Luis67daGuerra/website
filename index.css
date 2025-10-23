@@ -1,39 +1,63 @@
-#titulo_h1{
-      color: green;
-   text-align: center;
+html{
+
+	scroll-behavior: smooth;
 }
 
-#titulo_h2{ 
-      color: red;
-      text-align: left;
+body{
 
+    background-color: yellow;
 }
 
-#titulo_h3{
-      color: violet;
-      text-align: left;
+#elemento_h1{
+
+    color: green;
+    text-align: center;
 }
+
+#elemento_h2{
+    color: red;
+    text-align: right;
+}
+
+#elemento_h3{
+    color: violet;
+    text-align: left;
+}
+
 #elemento_b{
-      color: aqua;
- }
+    color: darkolivegreen;
+}
 
 #elemento_em{
-      color: chocolate;
+    color: chocolate;
 }
 
 #elemento_strong{
-      color: darkred;
+    color: darkred;
 }
 
 #elemento_sub{
-      color: rosybrown;
+    color: brown;
 }
 
 #elemento_sup{
-      color: chartreuse;
+    color: chartreuse;
 }
 
 #elemento_mark{
-      color: white;
-      background-color: blue;
+    color: white;
+    background-color: blue;
+}
+
+#secao1{
+    display: inline-block;
+}
+
+#secao2{
+    display: inline-block;
+}
+
+#secao3{
+
+    display: inline-block;
 }
