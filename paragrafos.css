@@ -1,0 +1,69 @@
+pre{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+    text-decoration-thickness: 0.2em;
+}
+p1{
+        text-align: left;
+    text-transform: capitalize;
+}
+
+
+#p1{
+    text-align: left;
+    text-transform: capitalize;
+}
+
+#p2{
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 50em;
+    text-shadow: 1px 1px 7px blue;
+    
+}
+
+p5{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: pink;
+    text-decoration-thickness: 0.2em;
+    text-transform: uppercase;
+    text-indent: 3em;
+    text-shadow: 1px 1px 7px greenyellow;
+}
+
+#p10{
+ text-align: center;
+}
+#p11{
+text-align: left;
+}
+#p12{
+text-decoration-line: underline;
+text-decoration-style: dotted;
+}
+#p13{
+text-decoration-line: overline;
+text-decoration-style: double;
+}
+#p14{
+text-decoration-line: line-through;
+text-decoration-style: dashed;
+}
+#p15{
+text-transform: uppercase;
+}
+#p16{
+text-transform: lowercase;
+}
+#p17{
+text-transform: capitalize;
+}
+#p18{
+text-shadow: 1px 1px 7px red;
+}
+#p19{text-align: right;
+}
